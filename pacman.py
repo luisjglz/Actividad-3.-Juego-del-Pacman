@@ -8,6 +8,7 @@ Exercises
 4. Make the ghosts faster/slower.
 5. Make the ghosts smarter.
 
+Equipo 1
 """
 
 from random import choice
